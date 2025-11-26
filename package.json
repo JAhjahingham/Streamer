@@ -1,0 +1,9 @@
+{
+  "name": "public-domain-streamer",
+  "version": "1.0.0",
+  "description": "Public domain video scraper for Fire Stick",
+  "dependencies": {
+    "react": "^18.0.0",
+    "lucide-react": "^0.263.1"
+  }
+}
